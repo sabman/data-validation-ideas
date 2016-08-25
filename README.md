@@ -1,6 +1,6 @@
 # Data validation ideas
 
-Ideas for (automated) data validation during a software project. This was inspired by a talk by Arnuf Christl [Relive: Software comes and goes. Mind the Data!](https://streaming.media.ccc.de/foss4g-2016/relive/1060/)
+Ideas for (automated) data validation during a software project. This was inspired by a talk by Arnuf Christl [Software comes and goes. Mind the Data!](https://streaming.media.ccc.de/foss4g-2016/relive/1060/)
 
 ## Problem
 
